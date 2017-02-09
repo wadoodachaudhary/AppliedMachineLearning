@@ -1,2 +1,2 @@
 # AppliedMachineLearning
-Applied Machine Learning Homeworks
+Applied Machine Learning Homework Repository
