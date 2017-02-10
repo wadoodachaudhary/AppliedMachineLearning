@@ -2,7 +2,8 @@ __author__ = 'wadood'
 
 
 def test():
-    return 2 + 7
+    assert (2 + 7 == 9)
+    return 1
 
 
 print(test())
