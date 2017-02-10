@@ -1,9 +1,8 @@
 __author__ = 'wadood'
 
 
-def test():
-    assert (2 + 7 == 9)
-    return 1
+def add_numbers(x, y):
+    return x + y
 
 
-print(test())
+print(add_numbers(2, 3))
